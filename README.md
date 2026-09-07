@@ -155,20 +155,6 @@ Engineering student passionate about **Data Science, Machine Learning and AI**.
 
 ---
 
-# 🚀 Projects
-
-### 🩺 Medical Recommendation System
-**Python • Machine Learning • Pandas • NumPy**
-
-End-to-end ML recommendation system that processes **user-reported symptoms** and generates treatment and precaution recommendations.
-
-### 💬 WhatsApp Text Analyzer
-**Python • NLP • Pandas • Matplotlib • Streamlit**
-
-Interactive application for analyzing WhatsApp chat logs with **message frequency, user activity, word clouds, sentiment analysis and communication insights**.
-
----
-
 # 🧩 Problem Solving
 
 Practicing **Data Structures & Algorithms using C++**.
