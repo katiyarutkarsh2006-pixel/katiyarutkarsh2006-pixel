@@ -194,7 +194,7 @@ Practicing **Data Structures & Algorithms using C++**.
 
 📧 `utkarshkatiyarmaverick@gmail.com`
 
-[LinkedIn](https://www.linkedin.com/in/utkarsh-katiyar) •
+[LinkedIn](https://www.linkedin.com/in/utkarsh-katiyar-080403323/) •
 [LeetCode](https://leetcode.com/uttu_02) •
 [Instagram](https://instagram.com/utkarsh_katiyar._)
 
